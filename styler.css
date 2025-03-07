@@ -46,7 +46,7 @@
 .above11 {
   /* padding-bottom: 50px; */
   padding-top: 130px;
-  background: linear-gradient(135deg, #585858, #262626, #2a2a2a, #3c3c3c);
+  background: linear-gradient(142deg, #1c1d22, #db383d, #e8b03f);
   /* background-color: #4464b1; */
   /* background-image: url('./images/above3.png'); */
   background-position: center;
@@ -521,7 +521,7 @@
   margin-bottom: 20px;
 }
 
-/* background: linear-gradient(135deg, #585858, #262626, #2a2a2a, #3c3c3c); */
+/* background: linear-gradient(142deg, #1c1d22, #db383d, #e8b03f); */
 
 .htb11 {
   background: linear-gradient(135deg, #585858, #262626, #2a2a2a, #3c3c3c);
